@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLTestgradle.iml" filepath="$PROJECT_DIR$/.idea/modules/BLTestgradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLTestgradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BLTestgradle_main.iml" group="BLTestgradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLTestgradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BLTestgradle_test.iml" group="BLTestgradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_main.iml" group="Java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_test.iml" group="Java" />
+    </modules>
+  </component>
+</project>
